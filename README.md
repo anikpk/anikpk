@@ -8,11 +8,13 @@ Striving to reach the highest level, in any given mission or situation, in a coo
 
 Skills: Python/ TensorFlow/ Keras/ NLP/C/Java
 
-- 🔭 I’m currently working on unigroc.com as a Data Analyst 
+- 🔭 I’m currently working on unigroc.com as a Data Analyst
+- 🔎 Working as a Chief Resource Executive on Virtual Multidisciplinary Research Lab 
 - 💬 Ask me about Machine Learning  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anikpk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anik-pramanik9495/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hey__its_anik_pk/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anikpk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anik-pramanik9495/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hey__its_anik_pk/)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anikpk)](https://github.com/ryo-ma/github-profile-trophy)
 
