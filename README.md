@@ -4,6 +4,7 @@
 <h2 align="center">Looking for a PhD Position | ML Researcher | Deep Learning | Image Processing | NLP</h1>
 <h3 align="center">Self-motivated and agile, with teamwork expertise resulting from a comprehensive extracurricular activity, with a degree in Computer Science and Engineering. Effective in terms of forecasts and analysis of computations and techniques. With the ability to work hard with absolute obligation, which may work with a sense of leadership and drive independently or in groups. Striving to reach the highest level, in any given mission or situation, in a coordinated way, with the communication skills acquired.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikpk&label=Profile%20views&color=0e75b6&style=flat" alt="anikpk" /> </p>
 
 - 🔭 I’m currently working on UniGroc as a Data Analyst [https://unigroc.com/](https://unigroc.com/)
