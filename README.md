@@ -1,17 +1,18 @@
-<h1 align="center">Looking for a PhD Position | ML Researcher | Deep Learning | Image Processing | NLP</h1>
 
 <h1 align="center">Hi 👋, I'm Anik Pramanik</h1>
+
+<h2 align="center">Looking for a PhD Position | ML Researcher | Deep Learning | Image Processing | NLP</h1>
 <h3 align="center">Self-motivated and agile, with teamwork expertise resulting from a comprehensive extracurricular activity, with a degree in Computer Science and Engineering. Effective in terms of forecasts and analysis of computations and techniques. With the ability to work hard with absolute obligation, which may work with a sense of leadership and drive independently or in groups. Striving to reach the highest level, in any given mission or situation, in a coordinated way, with the communication skills acquired.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikpk&label=Profile%20views&color=0e75b6&style=flat" alt="anikpk" /> </p>
 
 - 🔭 I’m currently working on UniGroc as a Data Analyst [https://unigroc.com/](https://unigroc.com/)
 
-- 🌱 I’m currently learning **Graph Neural Networks**
+- 🌱 I’m currently learning **Graph Neural Networks.**
 
 - 👯 I’m looking to collaborate on **any research-based project in machine learning, deep learning, and the natural language processing domain.**
 
-- 💬 Ask me about **Data Science, Machine Learning, Natural Language Processing**
+- 💬 Ask me about **Data Science, Machine Learning, Natural Language Processing.**
 
 - 📫 How to reach me **anik15-9495@diu.edu.bd**
 
