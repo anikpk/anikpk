@@ -7,15 +7,15 @@
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikpk&label=Profile%20views&color=0e75b6&style=flat" alt="anikpk" /> </p>
 
-- 🔭 I’m currently working on UniGroc as a Data Analyst [https://unigroc.com/](https://unigroc.com/)
+- 🔭 I’m currently working on UniGroc as a Data Analyst [https://www.sheba.xyz/](Sheba.xyz)
 
 - 🌱 I’m currently learning **Graph Neural Networks.**
 
 - 👯 I’m looking to collaborate on **any research-based project in machine learning, deep learning, and the natural language processing domain.**
 
-- 💬 Ask me about **Data Science, Machine Learning, Natural Language Processing.**
+- 💬 Ask me about **Data Science, Machine Learning, and Natural Language Processing.**
 
-- 📫 How to reach me **anik15-9495@diu.edu.bd**
+- 📫 How to reach me **anikpkanik@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
