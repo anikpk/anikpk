@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Anik Pramanik</h1>
 
-<h2 align="center">Looking for a PhD Position | ML Researcher | Deep Learning | Image Processing | NLP</h1>
+<h2 align="center">Looking for a PhD Position | Machine Learning | Healthcare Analytics | Image Processing | NLP</h1>
 <h4 align="center">Self-motivated and agile, with teamwork expertise resulting from a comprehensive extracurricular activity, with a degree in Computer Science and Engineering. Effective in terms of forecasts and analysis of computations and techniques. With the ability to work hard with absolute obligation, which may work with a sense of leadership and drive independently or in groups. Striving to reach the highest level, in any given mission or situation, in a coordinated way, with the communication skills acquired.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikpk&label=Profile%20views&color=0e75b6&style=flat" alt="anikpk" /> </p>
 
-- 🔭 I’m currently working on UniGroc as a Data Analyst [Sheba.xyz](https://www.sheba.xyz/)
+- 🔭 I’m currently working on Sheba.xyz as a Senior Data Analyst [Sheba.xyz](https://www.sheba.xyz/)
 
 - 🌱 I’m currently learning **Graph Neural Networks.**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Data Science, Machine Learning, and Natural Language Processing.**
 
-- 📫 How to reach me **anikpkanik@gmail.com**
+- 📫 How to reach me **contact.anikpk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
