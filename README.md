@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as a Senior Data Analyst at [Sheba.xyz](https://www.sheba.xyz/)
 
-- 🌱 I’m currently learning **Graph Neural Networks.**
+- 🌱 I’m currently learning **Large Language Models (LLMs) and Small Language Models (SLMs).**
 
 - 👯 I’m looking to collaborate on **any research-based project in machine learning, deep learning, and the natural language processing domain.**
 
