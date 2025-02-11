@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anik Pramanik</h1>
 
-<h2 align="center">Looking for a PhD Position | Machine Learning | Healthcare Analytics | Image Processing | NLP</h1>
+<h2 align="center"> Machine Learning | Healthcare Analytics | Image Processing | NLP</h1>
 <h4 align="center">As a self-motivated and agile Computer Science and Engineering graduate, I am passionate about applying Machine Learning and advanced computational techniques in the healthcare domain. With expertise in healthcare analytics and medical image analysis, I aim to leverage deep learning algorithms to enhance diagnostic accuracy in medical imaging, such as MRI and CT scans, and contribute to early disease detection and personalized medicine. Additionally, I seek to utilize predictive analytics to optimize healthcare operations, analyzing complex datasets from electronic health records to support clinical decision-making and improve patient outcomes. Driven by a strong sense of leadership, collaboration, and commitment, I am eager to contribute to innovative, data-driven solutions that address critical healthcare challenges and advance the industry.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">
