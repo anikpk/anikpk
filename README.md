@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikpk&label=Profile%20views&color=0e75b6&style=flat" alt="anikpk" /> </p>
 
-- 🔭 I’m currently working as a Senior Data Analyst at [Sheba.xyz](https://www.sheba.xyz/)
+- 🔭 I’m currently working as a Senior Data Analyst at [ADN DigiNet Limited](https://adndiginet.com/)
 
 - 🌱 I’m expanding my expertise in **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI.**
 
